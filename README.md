@@ -6,7 +6,7 @@ The goal of this project is to practice real-world SQL querying skills by solvin
 
 The database contains information about:
 
-Customers
+#Customers
 Employees
 Artists & Albums
 Tracks & Genres
