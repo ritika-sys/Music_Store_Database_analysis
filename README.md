@@ -6,14 +6,14 @@ The goal of this project is to practice real-world SQL querying skills by solvin
 
 The database contains information about:
 
-Customers,
-Employees,
-Artists & Albums,
-Tracks & Genres,
-Invoices & Sales,
-Playlists
+-Customers,
+-Employees,
+-Artists & Albums,
+-Tracks & Genres,
+-Invoices & Sales,
+-Playlists
 
-Database and Tools
-Postgre SQL
-PgAdmin4
+#Database and Tools
+-Postgre SQL
+-PgAdmin4
 
